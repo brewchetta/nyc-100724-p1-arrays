@@ -1,4 +1,4 @@
-# Javascript Fundamentals
+# Javascript Arrays and Objects
 
 If you right click this file and select `Open Preview` it will show a prettier version of this file.
 
