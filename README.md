@@ -4,23 +4,13 @@ If you right click this file and select `Open Preview` it will show a prettier v
 
 ## Learning Goals:
 
-- Command line basics
+- The `for` and `while` loops
 
-- Javascript data types
-
-- Declaring functions
-
-- Javascript scopes
-
-- Function parameters and arguments
+- Callback functions
+      
+- Advanced array iteration (forEach and map)
 
 - Default arguments
-
-- The `for` and `while` loops
-      
-- Callback functions
-
-- Advanced array iteration (forEach and map)
 
 - BONUS: Keyboard shortcuts! Please ask about them!
 
