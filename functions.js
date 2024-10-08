@@ -1,4 +1,4 @@
-console.log("OLLEH")
+// console.log("OLLEH")
 
 const someConst = "hello" // value cannot be reassigned
 let someLet = "HELLO" // value can be reassigned
@@ -56,7 +56,7 @@ function saySomeGlobalStuff() {
 
 function twoReturns() {
     return "hello"
-    return "goodbye"
+    // return "goodbye"
 }
 
 // GLOBAL SCOPE
